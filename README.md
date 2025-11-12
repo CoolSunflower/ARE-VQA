@@ -137,7 +137,7 @@ Edit `src/config.py` to customize:
 
 ## Results Summary
 
-See **[Report.pdf](Report.pdf)** for complete results and analysis.
+See **[Report-ARE-VQA.pdf](Report-ARE-VQA.pdf)** for complete results and analysis.
 
 **Key Findings**:
 - Pipeline demonstrates effectiveness on compositional and knowledge-based questions
