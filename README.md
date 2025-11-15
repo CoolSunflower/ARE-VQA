@@ -25,7 +25,7 @@ ARE-VQA addresses the challenge of answering visual questions that require exter
 
 **Key Innovation**: Uses LLM as a knowledge agent (along with APIs) enabling fully local deployment with no external dependencies. Fully agentic pipeline.
 
-
+![proposed model diagram detailing the interconnection between the 5 modules](assets/ARE-VQA-Model.png)
 
 ## Dataset
 
