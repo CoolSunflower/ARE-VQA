@@ -1,5 +1,11 @@
 # ARE-VQA: Adaptive Reasoning Engine for Visual Question Answering
 
+Done by:
+```
+Abhishek Kumar, 220101002
+Adarsh Gupta, 220101003
+```
+
 A modular five-stage reasoning pipeline for knowledge-based Visual Question Answering, evaluated on the A-OKVQA dataset using local vision-language models.
 
 ## Documentation
@@ -18,6 +24,8 @@ ARE-VQA addresses the challenge of answering visual questions that require exter
 5. **Synthesizer**: Combines intermediate answers into final response
 
 **Key Innovation**: Uses LLM as a knowledge agent (along with APIs) enabling fully local deployment with no external dependencies. Fully agentic pipeline.
+
+
 
 ## Dataset
 
