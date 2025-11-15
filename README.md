@@ -158,7 +158,6 @@ Indian Institute of Technology Guwahati, 2025
 ## Contact
 
 - Adarsh Gupta - [adarsh.gupta@iitg.ac.in]
-- Abhishek Kumar - [abhishek.kumar@iitg.ac.in]
 
 Indian Institute of Technology Guwahati
 
