@@ -17,7 +17,7 @@ ARE-VQA addresses the challenge of answering visual questions that require exter
 4. **Tool Executor**: Answers sub-questions using vision model
 5. **Synthesizer**: Combines intermediate answers into final response
 
-**Key Innovation**: Uses LLM as a knowledge agent instead of external APIs, enabling fully local deployment with no external dependencies.
+**Key Innovation**: Uses LLM as a knowledge agent (along with APIs) enabling fully local deployment with no external dependencies. Fully agentic pipeline.
 
 ## Dataset
 
